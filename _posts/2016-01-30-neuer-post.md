@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 Das wird mein neuer **Artikel**
 
