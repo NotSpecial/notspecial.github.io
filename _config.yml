@@ -1,4 +1,25 @@
-name: Alex Test Page
-markdown: kramdown
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
 
-permalink: /blog/:year/:month/:day/:title
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Alex
+tagline:          'A Test Homepage'
+description:      'Homepage experiment powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> using the <a href="http://hyde.getpoole.com">Hyde</a> theme. Hosted on <a href="https://pages.github.com">GitHub Pages</a>'
+url:              http://notspecial.github.io
+baseurl:          /
+
+author:
+  name:           'Alexander Dietmüller'
+
+paginate:         5
+
+# Custom vars
+version:          0.1
+
+github:
+  repo:           https://github.com/NotSpecial/notspecial.github.io
