@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 ---
 Hallo meine liebe Freundin.
